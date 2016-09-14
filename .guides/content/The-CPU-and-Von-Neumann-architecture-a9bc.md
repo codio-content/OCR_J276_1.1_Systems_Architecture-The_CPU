@@ -1,0 +1,1 @@
+In this lesson we will look at the role and structure of the CPU (central Processing Unit).

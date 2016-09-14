@@ -1,0 +1,117 @@
+{
+ "sections": [
+  {
+   "id": "a9bc7bec-9e03-7607-bc28-8aacce84cbf7",
+   "title": "The CPU and Von Neumann architecture",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-CPU-and-Von-Neumann-architecture-a9bc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "01500acb-f112-2770-c695-69313f8b21ae",
+   "title": "The purpose of the CPU",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-purpose-of-the-CPU-0150.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "532d810b-13fb-322d-28ed-b8c1bd2f9788",
+   "title": "Von Neumann architecture",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Von-Neumann-architecture-532d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "eccb0c9b-0478-d91a-0df8-8f4519bed752",
+   "title": "Modern processing units",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Modern-processing-units-eccb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "56d1ef2b-6f7a-79a2-aac1-1e56629d257e",
+   "title": "Components of the CPU",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Components-of-the-CPU-56d1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2aec5953-fdc6-34b4-ef71-58f4d70570e6",
+   "title": "Registers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Registers-2aec.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "63c6a79e-8878-28bb-16e3-098e1b0e0f73",
+   "title": "Cache memory",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Cache-memory-63c6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ae629735-1464-2da0-23bc-5c2e12db5dd2",
+   "title": "The clock",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-clock-ae62.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d35efa1b-4f92-554b-5ca7-e776c0886e51",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-d35e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d7043acd-6627-ffc4-ac87-ce213ca450fa",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-d704.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

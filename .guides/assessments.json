@@ -1,0 +1,73 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-119734404",
+  "source": {
+   "name": "CPU Components",
+   "showName": true,
+   "instructions": "**In the following table identify the component of the CPU from its description.**",
+   "points": "1",
+   "showValues": true,
+   "text": "| Description | Component |\n| :------ | :----------- |\n| Holds the address of the memory location currently being accessed. | <<<MAR Memory Address Register>>> |\n| Performs arithmetic and logical operations| <<<ALU Arithmetic and logic unit>>> |\n| Regulates the timing and speed of all computer functions.| <<<Clock>>>|\n| Holds the address of the next instruction to be fetched from main memory.  | <<<MDR Memory data Register>>> |\n| Co-ordinates the actions of the computer.| <<<CU Control Unit>>>|\n| Holds the address of the next instruction to be fetched from main memory. | <<<Program counter>>> |",
+   "tokens": {
+    "blank": [
+     "MAR Memory Address Register",
+     "ALU Arithmetic and logic unit",
+     "Clock",
+     "MDR Memory data Register",
+     "CU Control Unit",
+     "Program counter"
+    ],
+    "text": [
+     "| Description | Component |\n| :------ | :----------- |\n| Holds the address of the memory location currently being accessed. | ",
+     0,
+     " |\n| Performs arithmetic and logical operations| ",
+     0,
+     " |\n| Regulates the timing and speed of all computer functions.| ",
+     0,
+     "|\n| Holds the address of the next instruction to be fetched from main memory.  | ",
+     0,
+     " |\n| Co-ordinates the actions of the computer.| ",
+     0,
+     "|\n| Holds the address of the next instruction to be fetched from main memory. | ",
+     0,
+     " |"
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3964207907",
+  "source": {
+   "name": "Processor",
+   "showName": false,
+   "instructions": "**A computer is advertised as having a 2.5 GHz processor.\n\tHow many instructions will the processor be able to process each second.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "2,5 cycles per second",
+     "correct": false,
+     "_id": "234c6f3d-a87c-e86c-98e0-be2a0396f899"
+    },
+    {
+     "answer": "2500 cycles per second",
+     "correct": false,
+     "_id": "24afa9af-33b8-0ce0-c0f8-f205ed98a335"
+    },
+    {
+     "answer": "2,500,000 cycles per second",
+     "correct": false,
+     "_id": "3cec4347-bbe9-95df-65b9-7b220e082a74"
+    },
+    {
+     "correct": true,
+     "answer": "2,500,000,000 cycles per second\r\n",
+     "_id": "070fb9c7-8dee-cc17-b2e9-0c9a145909de"
+    }
+   ]
+  }
+ }
+]

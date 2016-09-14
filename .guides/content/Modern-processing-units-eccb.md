@@ -1,0 +1,2 @@
+Over the years through developments in technology and especially the use of transistors, the CPU has become more powerful and far smaller than the room-filling versions in the images above.
+Modern CPUs are microprocessors, they are contained on a single chip, but they still adhere to the basic von Neumann design.
