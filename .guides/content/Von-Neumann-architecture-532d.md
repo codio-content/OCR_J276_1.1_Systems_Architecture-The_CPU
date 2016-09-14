@@ -12,7 +12,7 @@ His design included
 John von Neumann standing in front of EDVAC (Electronic Discrete Variable Automatic Computer) the first stored program computer.
 ![](.guides/img/vonn1.png)
 
-**Interesting Fact
+**Interesting Fact**
 
 EDSAC (Electronic Delayed Storage Automatic Computer) was developed in Britain and wad the first stored program computer to be put to commercial use when it was first used by J. Lyons & Co. in 1951. It was known as LEO, short for Lyons Electronic Office.
 
