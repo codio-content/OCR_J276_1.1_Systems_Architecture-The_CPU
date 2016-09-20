@@ -1,7 +1,7 @@
 The design of the CPU and the way in which it interacts with other components to carry out the program instructions is known as von Neumann architecture.
 
 In 1945, John von Neumann proposed his design for a ‘stored program’ computer where both the program and data were stored in the memory.
-His design included 
+His design included:
 
 - a processing unit, 
 - a program counter
@@ -9,8 +9,8 @@ His design included
 - external storage 
 - input and output mechanisms
 
-John von Neumann standing in front of EDVAC (Electronic Discrete Variable Automatic Computer) the first stored program computer.
 ![](.guides/img/vonn1.png)
+John von Neumann standing in front of EDVAC (Electronic Discrete Variable Automatic Computer) the first stored program computer.
 
 **Interesting Fact**
 
