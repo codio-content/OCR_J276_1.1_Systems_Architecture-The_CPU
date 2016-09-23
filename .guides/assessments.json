@@ -8,7 +8,7 @@
    "instructions": "**In the following table identify the component of the CPU from its description.**",
    "points": "1",
    "showValues": true,
-   "text": "| Description | Component |\n| :------ | :----------- |\n| Holds the address of the memory location currently being accessed. | <<<MAR Memory Address Register>>> |\n| Performs arithmetic and logical operations| <<<ALU Arithmetic and logic unit>>> |\n| Regulates the timing and speed of all computer functions.| <<<Clock>>>|\n| Holds the address of the next instruction to be fetched from main memory.  | <<<MDR Memory data Register>>> |\n| Co-ordinates the actions of the computer.| <<<CU Control Unit>>>|\n| Holds the address of the next instruction to be fetched from main memory. | <<<Program counter>>> |",
+   "text": "| Description | Component |\n| :------ | :----------- |\n| Holds the address of the memory location currently being accessed. | <<<MAR Memory Address Register>>> |\n| Performs arithmetic and logical operations| <<<ALU Arithmetic and logic unit>>> |\n| Regulates the timing and speed of all computer functions.| <<<Clock>>>|\n| Holds the address of the memory location from which data will  be fetched to the CPU or the address to which data will be sent and stored.  | <<<MDR Memory data Register>>> |\n| Co-ordinates the actions of the computer.| <<<CU Control Unit>>>|\n| Holds the address of the next instruction to be fetched from main memory. | <<<Program counter>>> |",
    "tokens": {
     "blank": [
      "MAR Memory Address Register",
@@ -25,7 +25,7 @@
      0,
      " |\n| Regulates the timing and speed of all computer functions.| ",
      0,
-     "|\n| Holds the address of the next instruction to be fetched from main memory.  | ",
+     "|\n| Holds the address of the memory location from which data will  be fetched to the CPU or the address to which data will be sent and stored.  | ",
      0,
      " |\n| Co-ordinates the actions of the computer.| ",
      0,

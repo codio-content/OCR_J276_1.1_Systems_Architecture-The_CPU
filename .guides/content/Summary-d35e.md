@@ -9,7 +9,7 @@ In this lesson we have looked at:
 		- General purpose
 		- Special purpose
 			- MAR
-			- DAR
+			- MDR
 			- Program counter
 			- Accumulator
 		- Cache

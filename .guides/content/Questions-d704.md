@@ -8,7 +8,7 @@ Now take a look at the following questions and see how much you have learned.
 | Holds the address of the memory location currently being accessed. | **MAR Memory Address Register** |
 | Performs arithmetic and logical operations| **ALU Arithmetic and logic unit** |
 | Regulates the timing and speed of all computer functions.| **Clock**|
-| Holds the address of the next instruction to be fetched from main memory.  | **MDR Memory data Register** |
+| Holds the address of the memory location from which data will  be fetched to the CPU or the address to which data will be sent and stored.  | **MDR Memory data Register** |
 | Co-ordinates the actions of the computer.| **CU Control Unit**|
 | Holds the address of the next instruction to be fetched from main memory. | **Program counter** |
 |||
